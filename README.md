@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eros483
 - 👀 I’m interested in learning AIML
-- 🌱 I’m currently learning python, R, C and SQL
+- 🌱 I’m currently learning python and C, and learning how to use instagrapi and streamlit
 - 💞️ I’m looking to collaborate with my teammates on our SIH project
 - 📫 Email me at am483@snu.edu.in
 
