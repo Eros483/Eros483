@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Eros483
-- 👀 I’m interested in learning AIML
+- 👋 Hi, I’m Arnab
+- 👀 I’m interested in learning AIML and intend to pursue robotics
 - 🌱 I’m currently learning python and C, and learning how to use instagrapi and streamlit
 - 💞️ I’m looking to collaborate with my teammates on our SIH project
 - 📫 Email me at am483@snu.edu.in
