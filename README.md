@@ -52,14 +52,4 @@ I'm a **3rd-year Computer Science Engineering student** with a minor in **Intern
 
 ---
 
-*"The best way to predict the future is to invent it."* - Alan Kay
-
-![Profile Views](https://komarev.com/ghpvc/?username=Eros483&color=brightgreen)
-
----
-
-### 📈 GitHub Stats
-
-![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eros483&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eros483&layout=compact&theme=radical)
