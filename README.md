@@ -4,11 +4,11 @@
 
 I'm a **3rd-year Computer Science Engineering student** with a minor in **International Relations**, passionate about the intersection of technology and data-driven solutions. My goal is to become a **Data Scientist** specializing in **Machine Learning** and **Generative AI**.
 
-🎯 **Current Focus**: Building innovative projects with MCP (Model Context Protocol), n8n automation workflows, and agentic AI systems
+🎯 **Current Focus**: Building innovative projects with MCP, n8n automation workflows, and agentic AI systems
 
 🐍 **Primary Language**: Python - I love both the coding and the mathematical foundations behind it
 
-📚 **Beyond Code**: Avid fiction reader, fitness enthusiast, and mathematics lover
+📚 **Beyond Code**: Avid fiction reader, lifting crazed enthusiast, and mathematics lover
 
 
 ## 🌐 Socials:
