@@ -3,7 +3,7 @@
 
 </h1>
 
-<p align="center">Computer Science Major &#9679; IR Minor </p>
+<p align="center">Computer Science Major &#9679; Minoring in International Relations and Governance </p>
 
 <div align="center">
 
