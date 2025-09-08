@@ -1,6 +1,17 @@
-# Hi there, I'm Arnab Mandal! 👋
+<h1 align="center">🛸 Hello, I'm Arnab <3
 
-## About Me
+
+</h1>
+
+<p align="center">Computer Science Major &#9679; IR Minor </p>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.youtube.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnabmandal2912)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnabmandal2912@gmail.com)
+
+</div>
 
 I'm a **3rd-year Computer Science Engineering student** with a minor in **International Relations**, passionate about the intersection of technology and data-driven solutions. My goal is to become a **Data Scientist** specializing in **Machine Learning** and **Generative AI**.
 
