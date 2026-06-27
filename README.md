@@ -13,7 +13,7 @@
 
 </div>
 
-I'm a CSE undergrad at Shiv Nadar University, and I work as an AI engineer, specializing in maximising throughput, and minimizing consumed resources.
+I'm a CSE undergrad at Shiv Nadar University, and I work as an AI engineer, specializing in enterprise AI and finetuning anything i get my hands on.
 
 Some of my work experience includes
 - 8x-ing the throughput of a Vision LLM pipeline
